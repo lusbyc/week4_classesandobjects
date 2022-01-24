@@ -16,7 +16,7 @@ r1.welcome()
 r2.welcome()
 r3.welcome()
 
-#Exercise Lab 2: User Class
+#Exercise Lab 2 and 3: User Class
 class User:
 
     favorite_restaurants = []
